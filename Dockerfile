@@ -1,3 +1,3 @@
-FROM devopsfaith/krakend:0.4.2
+FROM devopsfaith/krakend:1.4.1
 
 COPY krakend.json /etc/krakend/krakend.json
